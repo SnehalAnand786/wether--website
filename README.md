@@ -1,10 +1,17 @@
 # Dynamic-wether--website
+
  *Compny*: CODTECH IT SOLUTIONS
+ 
  *NAME*: Snehal Anand
+ 
  *INTERN ID*: CT04DH1332
+ 
  *DOMAIN*: FULL STACK WEB DEVLOPMENT
+ 
  *DURATION*: 4 WEEKS
+ 
  *MENTOR*: NEELA SANTOSH
+ 
 # weather Interface :
 *The homepage displays a "Weather" title.
  This weather application allows users to check the current temperature and wind speed for any city in the world.
