@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #87ceeb, #00bfff);
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+}
+
+.container {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(189, 170, 170, 0.2);
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #6f869f;
+  color: white;
+  cursor: pointer;
+}
